@@ -1,0 +1,95 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+}
+.main{
+    margin-left: 20%;
+}
+.header{
+   margin-top: 5%;
+   margin-left: 10%;
+}
+.name{
+    font-size: 100px;
+    font-weight: 900;
+}
+.address,.ph{
+    font-size: 2em;
+}
+.profiles{
+    display: flex;
+    gap: 2.5em;
+    font-size: 1.5em;
+}
+.summary{
+    margin-top: 2%;
+    margin-left: 10%;
+}
+.s-name{
+    font-size: 2em;
+    font-weight: bold;
+}
+.s-content{
+    font-size:1.5em;
+}
+.projects{
+    margin-top: 2%;
+    margin-left: 10%;
+}
+.p-name{
+    font-size: 2em;
+    font-weight: bold;
+}
+.p1-title{
+    font-size:1.5em;
+    font-weight: bold;
+}
+.p1-content{
+    margin-left: -1.5em;
+    list-style: none;
+    font-size:1.5em;
+}
+.education{
+    margin-top: 2%;
+    margin-left: 10%;
+}
+.e-title{
+    font-size:2em;
+    font-weight: bold;
+}
+.college1,.college2{
+    /* margin-left: -1.5em; */
+    list-style: none;
+    font-size:1.5em;
+}
+.sub{
+    display: flex;
+    gap:10%;
+    margin-left: 10em; 
+   padding: 1%;
+}
+.s-title{
+    font-size:1.5em;
+    font-weight: bold; 
+}
+.c-title{
+    font-size:1.5em;
+    font-weight: bold;
+}
+.Skills{
+    font-size:1.5em;
+}
+.Course{
+    font-size:1.5em;
+}
+.Awards{
+    margin-top: 2%;
+    margin-left: 10%;
+}
+.A-title{
+    font-size:2em;
+    font-weight: bold;
+}
+.A-value{
+    font-size:1.5em;
+}
